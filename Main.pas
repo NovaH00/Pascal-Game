@@ -1,3 +1,4 @@
+{This game was made by Tran Tay/Nova. Finished on 12/10/2022}
 program Game;
 uses crt;
 var point, difficulty: integer;
